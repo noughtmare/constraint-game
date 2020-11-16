@@ -1,0 +1,8 @@
+packages: .
+
+allow-newer: gi-gtk-declarative-0.6.3:haskell-gi
+           , gi-gtk-declarative-0.6.3:haskell-gi-base
+           , gi-gtk-declarative-app-simple-0.6.3:haskell-gi
+           , gi-gtk-declarative-app-simple-0.6.3:haskell-gi-base
+
+constraints: haskell-gi >= 0.24.5
