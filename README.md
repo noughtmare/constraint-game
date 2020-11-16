@@ -29,6 +29,10 @@ application for which you can write your own solving techniques. The challenge
 is to find rules that do not use backtracking. I'm planning to implement many of
 [the techniques that are described on the sudopedia][5].
 
+Currently, you can place numbers by clicking in the boxes and you can change the
+number you place by pressing the desired digit on your keyboard. To switch to 
+an erasing mode you can press the zero key.
+
 [1]: https://github.com/haskell-gi/haskell-gi/wiki/Using-Cairo-with-haskell-gi-generated-bindings
 [2]: https://github.com/haskell-gi/haskell-gi/issues/148
 [3]: https://github.com/cohomology/gi-cairo-render
